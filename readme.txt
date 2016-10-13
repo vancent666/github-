@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-git so easy! this is origin wtf
-test......
+zhe shi jie jue chong tu hou
